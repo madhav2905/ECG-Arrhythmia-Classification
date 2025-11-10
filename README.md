@@ -1,4 +1,4 @@
-# ECG Arrhythmia Classification using Hybrid CNN-BiLSTM
+# ECG Arrhythmia Classification using CNN-BiLSTM
 A deep learning project to classify cardiac arrhythmias from single-lead ECG signals. This project addresses significant class imbalance in the MIT-BIH Arrhythmia Dataset by utilizing a hybrid Convolutional Neural Network (CNN) and Bidirectional Long Short-Term Memory (BiLSTM) architecture, enhanced with class-weighted training.
 ## Overview
 Electrocardiogram (ECG) monitoring is standard for diagnosing cardiac irregularities. Manual interpretation is time-consuming and prone to error. This project automates the classification of individual heartbeats into 5 standard categories defined by the AAMI (Association for the Advancement of Medical Instrumentation).
